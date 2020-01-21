@@ -1,1 +1,2 @@
 This file is created to test the funcionality of ff merge
+Adding a new text to file 
